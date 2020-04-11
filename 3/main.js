@@ -26,3 +26,14 @@ var str3 = "시 입니다.."
 var str4 = time2+time3+str3
 document.write(str4);
 document.write('<br/>');
+
+var aa= 20;
+var bb= 15;
+if(aa < bb){
+    //괄호안의 참일때 할 일
+    document.write('aa가 bb보다 작다')
+}
+else{
+    //괄호안의 조건이 거짓일때 할 일
+    document.write('aa가 bb보다 크다')
+}
