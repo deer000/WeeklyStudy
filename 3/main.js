@@ -19,10 +19,10 @@ var sum2 = str1 + str2;
 document.write(sum);
 document.write('<br/>');
 
-var time1 = "현재 시간은";
+// var time1 = "현재 시간은";
 var time2 = 1;
 var time3 = 2;
 var str3 = "시 입니다.."
-var str4 = time1+time2+time3+str3
+var str4 = time2+time3+str3
 document.write(str4);
 document.write('<br/>');
