@@ -16,6 +16,6 @@ var a = 10;
 var b = 22;
 var c = 48;
 
-if(a<c && b<c){
+if(a<c && b>c){
     document.write('a가 c보다 작고 b가 c보다 작다');
 }
