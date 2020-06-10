@@ -1,0 +1,12 @@
+var i = 6;
+document.write(i + '<br/>');
+i = i + 6;
+document.write(i + '<br/>');
+i = i + 6;
+document.write(i + '<br/>');
+i = i + 6;
+document.write(i + '<br/>');
+i = i + 6;
+document.write(i + '<br/>');
+i = i + 6;
+document.write(i + '<br/>');
